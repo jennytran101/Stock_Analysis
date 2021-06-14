@@ -14,12 +14,13 @@ Program B: Single For Loop
 
 # Performance:
 ## 2017
-![2017](Resources/Nested_Loops_2017.png)
+
+
 ![Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 ### 2018
 
-![2018](Resources/Nested_Loops_2018.png)
+
 ![Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 
